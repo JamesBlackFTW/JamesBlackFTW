@@ -1,5 +1,5 @@
 👋 Hi, I’m @JamesBlackFTW 👋  
-👀 I don't know why you're looking at my profile.  
+👀 I don't know why you're looking at my profile -- all of my repos are private🕵️.  
 
 <!---
 JamesBlackFTW/JamesBlackFTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
